@@ -1,0 +1,25 @@
+{
+  "name": "sales-training-dashboard",
+  "version": "1.0.0",
+  "description": "営業育成管理ダッシュボード",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "build": "parcel build public/index.html --dist-dir dist",
+    "dev": "parcel public/index.html --open"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "@parcel/transformer-react-refresh-wrap": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
