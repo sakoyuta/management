@@ -1,0 +1,33 @@
+node_modules/
+
+# System files and directories
+AppData/
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+"Application Data/"
+Cookies/
+"Local Settings/"
+"My Documents/"
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Templates/
+"スタート メニュー/"
+"Creative Cloud Files Personal Account nyny.msms@outlook.jp 4BFD5A53651E274F0A495C43@AdobeID/"
+"株式会社Gハウス Dropbox/"
+Links/
+Music/
+Pictures/
+Videos/
+OneDrive/
+
+# Embedded git repositories
+Viewing-Reservation-Table/
+myproject/
+owners-house/
+
+# Only include specific files
+.claude.json
+.claude.json.backup
